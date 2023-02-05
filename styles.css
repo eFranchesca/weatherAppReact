@@ -1,0 +1,55 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+body {
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/050/135/original/beach.jpg?1666744406);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+}
+a,
+#footer,
+hr {
+  text-decoration: none;
+  color: #989ca0;
+}
+
+#search-button {
+  border: 1px solid #989ca0;
+}
+
+#city,
+#conditions,
+#cityTimeDate {
+  color: #24242b;
+  list-style: none;
+  margin-top: 5px;
+  padding: 0;
+}
+
+#city {
+  font-size: 30px;
+  line-height: 35px;
+  margin-left: 10px;
+}
+
+#date,
+#temperature {
+  font-size: 24px;
+  line-height: 30px;
+  margin-left: 10px;
+}
+
+#conditions {
+  font-size: 16px;
+  line-height: 19px;
+}
+
+#icon {
+  width: 42px;
+  line-height: 42px;
+}

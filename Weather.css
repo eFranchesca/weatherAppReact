@@ -1,0 +1,39 @@
+.Weather .city {
+  font-size: 32px;
+  line-height: 36px;
+}
+
+.Weather .cityTemp {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.Weather .condition {
+  font-size: 24px;
+  line-height: 24px;
+}
+
+.Weather {
+  list-style: none;
+}
+
+.Weather .weather-app-wrapper {
+  max-width: 600px;
+  margin: 30 auto;
+}
+
+.Weather .weather-app {
+  padding: 20px;
+  margin-top: 30px;
+  border: 2px solid #989ca0;
+  border-radius: 5px;
+  box-shadow: 10px 10px 5px #0d2a47;
+}
+
+.Weather .weather-forecast {
+  font-size: 14px;
+}
+
+.Weather .weather-forecast-temps {
+  font-size: 12px;
+}
